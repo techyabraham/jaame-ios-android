@@ -1,4 +1,4 @@
-package net.appdevs.escroc
+package com.jaame.escrow
 
 import io.flutter.embedding.android.FlutterFragmentActivity
 
